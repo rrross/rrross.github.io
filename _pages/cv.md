@@ -18,9 +18,6 @@ Education
 Work experience
 ======
 * 2017-2020: Senior Research Associate at Dodge & Cox
-<!--   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
 
 
   
