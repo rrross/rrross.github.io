@@ -17,7 +17,7 @@ repository               : "rrross/rrross.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/raphael-rossellini-055a7358/"
+  linkedin         : "raphael-rossellini-055a7358/"
   orcid            : "http://orcid.org/0000-0002-5445-5575"
   pinterest        :
   soundcloud       :
