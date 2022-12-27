@@ -6,5 +6,6 @@ excerpt: ''
 date: 2022-11-29
 venue: 
 paperurl: 'https://arxiv.org/abs/2211.15856'
-citation: 'Elena Orlova, Haokun Liu, *Raphael Rossellini*, Benjamin Cash, Rebecca Willett'
+citation: 
 ---
+Authors: Elena Orlova, Haokun Liu, **Raphael Rossellini**, Benjamin Cash, Rebecca Willett
