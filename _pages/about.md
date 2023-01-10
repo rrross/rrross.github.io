@@ -10,6 +10,6 @@ redirect_from:
 
 I am a first year Statistics PhD student at UChicago. 
 
-**Email: raphaelr [a t] uchicago [d o t] edu**
+**Email: raphaelr [a t] uchicago [d o t] e d u**
 
 
