@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Chicago, 2017
-* M.S. in Statistics, University of Chicago, 2022
 * Ph.D in Statistics, University of Chicago, 2026 (expected)
+* M.S. in Statistics, University of Chicago, 2022
+* B.S. in Mathematics, University of Chicago, 2017
 
 Work experience
 ======
