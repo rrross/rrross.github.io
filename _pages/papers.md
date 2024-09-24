@@ -9,7 +9,7 @@ author_profile: true
 **Raphael Rossellini**, Rina Foygel Barber, Rebecca Willett.  *AISTATS 2024*
 
 [Beyond Ensemble Averages: Leveraging Climate Model Ensembles for Subseasonal Forecasting](https://arxiv.org/abs/2211.15856)<br/>
-Elena Orlova, Haokun Liu, **Raphael Rossellini**, Benjamin Cash, Rebecca Willett
+Elena Orlova, Haokun Liu, **Raphael Rossellini**, Benjamin Cash, Rebecca Willett. *Artificial Intelligence for the Earth Systems, 2024*
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
