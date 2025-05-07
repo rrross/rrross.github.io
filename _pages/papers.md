@@ -7,7 +7,7 @@ author_profile: true
 
 [Can a calibration metric be both testable and actionable?](https://arxiv.org/abs/2502.19851)<br/>
 **Raphael Rossellini**, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, Rebecca Willett.<br/>
-*Upcoming at Conference on Learning Theory (COLT), 2025*
+*Conference on Learning Theory (COLT), 2025*
 
 [Integrating Uncertainty Awareness into Conformalized Quantile Regression](https://arxiv.org/abs/2306.08693)<br/>
 **Raphael Rossellini**, Rina Foygel Barber, Rebecca Willett.<br/>
