@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-[An analysis of binary isotonic regression: degrees of freedom and implications for calibration]([https://arxiv.org/abs/2606.19642](https://arxiv.org/abs/2607.27301))<br/>
+[An analysis of binary isotonic regression: degrees of freedom and implications for calibration](https://arxiv.org/abs/2607.27301)<br/>
 **Raphael Rossellini**, Rina Foygel Barber, Zhimei Ren, Jake A. Soloff.<br/>
 
 [Rigorous uncertainty quantification of probabilistic AI weather forecasts with conformal prediction](https://arxiv.org/abs/2606.19642)<br/>
