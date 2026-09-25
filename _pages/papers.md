@@ -14,6 +14,7 @@ Anna Asch, **Raphael Rossellini**, Pedram Hassanzadeh, Rebecca Willett.<br/>
 [Can a calibration metric be both testable and actionable?](https://arxiv.org/abs/2502.19851)<br/>
 **Raphael Rossellini**, Jake A. Soloff, Rina Foygel Barber, Zhimei Ren, Rebecca Willett.<br/>
 *Conference on Learning Theory (COLT), 2025*
+[Video of oral presentation](https://www.youtube.com/watch?v=awkQfFsCuu4&list=PLCHBdlWR7RYx9VNiWhgSboOAFfiYubw8u&t=4761s)
 
 [Integrating Uncertainty Awareness into Conformalized Quantile Regression](https://arxiv.org/abs/2306.08693)<br/>
 **Raphael Rossellini**, Rina Foygel Barber, Rebecca Willett.<br/>
